@@ -43,7 +43,7 @@ PancakeX is an MIT-licensed open source project with its ongoing development mad
 
 Thanks to all the people who already contributed to making this PancakeX better!
 
-<img src="https://opencollective.com/fakerjs/contributors.svg?width=800" />
+<img src="https://cdn.discordapp.com/attachments/1071158659255640185/1234108816153382912/image.png?ex=662f88e6&is=662e3766&hm=614637a97f55dd48cc9b286b1a295d519555546f2f7f6b056b3ea80dc66a0900&" />
 
 ## 📝 Changelog
 
